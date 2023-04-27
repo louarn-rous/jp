@@ -1,0 +1,98 @@
+81;数;number,count;sū;kazu
+82;多;many,much;ta;oo-i
+83;少;a few,a little;shō;suku-nai,suko-shi
+84;万;ten thousand;ban,man;yorozu
+85;半;half;han;naka-ba
+86;形;shape;kei,gyō;katachi
+87;太;thick;ta;futo-i
+88;細;thin;sai;hoso-i
+89;広;wide;kō;hiro-i
+90;長;long,leader;chō;naga-i
+91;点;point;ten;bochi
+92;丸;circle;gan;maru
+93;交;intersect;kō;maji-waru
+94;光;light;kō;hikari
+95;角;corner,horn;kaku;kado,tsuno,sumi
+96;計;measure;kei;haka-ru
+97;直;straight,fix;choku,jiki;tada-chi,nao-su
+98;線;line;sen;suji
+99;矢;arrow;shi;ya
+100;弱;weak;jaku;yowa-i
+101;強;strong;kyō;tsuyo-i
+102;高;high;kō;taka-i
+103;同;same;dō;ona-ji
+104;親;parent;shin;oya
+105;母;mother;bo;haha,kā
+106;父;father;fu;chichi,tou
+107;姉;older sister;shi;ane
+108;兄;older brother;kei,kyō;ani
+109;弟;younger brother;tei,dai;otōto
+110;妹;younger sister;mai;imōto
+111;自;oneself;ji,shi;mizuka-ra
+112;友;friend;yū;tomo
+113;体;body;tai,karada
+114;毛;hair;mō;ke
+115;頭;head;tō;atama
+116;顔;face;gan;kao
+117;首;neck;shu;kubi
+118;心;heart;shin;kokori
+119;時;time;ji;toki
+120;曜;day of the week;yō;
+121;朝;morning;chō;asa
+122;昼;daytime;chū;hiru
+123;夜;night;ya;yoru
+124;分;minute,understand;fun,bun;wa-karu
+125;週;week;shū;
+126;春;spring;shun;haru
+127;夏;summer;ka;natsu
+128;秋;autumn;shū;aki
+129;冬;winter;tō;fuyu
+130;今;now;kon;ima
+131;新;new;shin;atara-shii,ara-ta
+132;古;old;ko;furu-i
+133;間;interval;kan,ken;ma,aida
+134;方;direction;hō;kata
+135;北;north;hoku;kita
+136;南;south;nan;minami
+137;東;east;tō;higashi,azuma
+138;西;west;sei,sai;nishi
+139;遠;far;en;tō-i
+140;近;near;kin;chika-i
+141;前;before;zen;mae
+142;後;after;go,kō;nochi,ushi-ro,ato
+143;内;inside;nai;uchi
+144;外;outside;gai,ge;soto,hoka,hazu-su
+145;場;place;jō;ba
+146;地;ground;chi,ji;
+147;国;country;koku;kuni
+148;園;garden;en;sono
+149;谷;valley;koku;tani
+150;野;field;ya;no
+151;原;meadow,plain;gen;hara
+152;里;hometown;ri;sato
+153;市;city;shi;ichi
+154;京;capital;kyō,kei;miyako
+155;風;wind,-style;fū;kaze
+156;雪;snow;setsu;yuki
+157;雲;cloud;un;kumo
+158;池;pond;chi;ike
+159;海;sea;kai;umi
+160;岩;rock;gan;iwa
+161;星;star;sei;hoshi
+162;室;room;shitsu;muro
+163;戸;door;ko;to,be
+164;家;house;ka,ke;ie
+165;寺;Buddhist temple;ji;tera
+166;通;pass through,commute;tsū;tō-ru,kayo-u
+167;門;gates;mon;kado
+168;道;road;dō;michi
+169;話;talk;wa;hanashi,hana-su
+170;言;say;gen,son;i-u,koto
+171;答;answer;tō;kota-eru
+172;声;voice;sei;koe
+173;聞;hear,listen,ask;bun,mon;ki-ku
+174;語;language;go;kata-ru
+175;読;read;doku;yo-mu
+176;書;write;sho;ka-ku
+177;記;record;ki;shiru-su
+178;紙;paper;shi;kami
